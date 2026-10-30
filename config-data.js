@@ -29,8 +29,8 @@ window.__CONFIG = {
     "video": "videos/city-video.mp4"
   },
   "contact": {
-    "whatsapp": "https://wa.me/5495173556113",
-    "phone": "+5495173556113",
+    "whatsapp": "https://wa.me/5173556113",
+    "phone": "+5173556113",
     "email": ""
   },
   "social": {
@@ -372,7 +372,7 @@ window.__CONFIG = {
         "name": "Rio Hotels Mancora",
         "description": "Rio Hotels Mancora ofrece todo lo que necesitás para tu estadía en Perú.",
         "url": "",
-        "telephone": "+5495173556113",
+        "telephone": "+5173556113",
         "email": "",
         "image": "",
         "sameAs": [
